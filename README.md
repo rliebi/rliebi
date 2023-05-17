@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Certificate](https://pimcore.com/academy/certificate-validation/badge/9JUNT34SX8WMEQG)
 <!--
 **rliebi/rliebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
