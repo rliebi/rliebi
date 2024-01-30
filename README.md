@@ -1,5 +1,4 @@
 ### Hi there 👋
-I'm, Remo, a passionate Senior Pimcore Developer and Lead Developer on a large-scale project at valantic. With my extensive experience and status as a Certified Pimcore Enterprise Developer, I bring a deep understanding and innovative approach to digital experience management and eCommerce solutions.
 
 🚀 **Senior Pimcore Developer | Lead Dev at valantic | Certified Pimcore Enterprise Developer**
 
