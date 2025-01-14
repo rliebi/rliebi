@@ -18,10 +18,9 @@ I'm a passionate Senior Pimcore Developer and Lead Developer on a large-scale pr
 *"Exploring the future of digital experiences, one line of code at a time."*
 
 
-
 <!-- ![Certificate](https://pimcore.com/academy/certificate-validation/badge/6Y9S15Z8LE4AM2J) -->
-![Certificate](https://pimcore.com/academy/certificate-validation/badge/9JUNT34SX8WMEQG)
-![Certificate](https://pimcore.com/academy/certificate-validation/badge/RQSWEDC63YB9ZUF)
+![Certificate](https://academy.pimcore.com/academy/certificate-validation/badge/B6DPWH948UG75JF)
+![Certificate](https://academy.pimcore.com/academy/certificate-validation/badge/RQSWEDC63YB9ZUF)
 <!--
 **rliebi/rliebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
