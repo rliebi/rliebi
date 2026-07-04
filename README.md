@@ -1,23 +1,49 @@
 Hi there 👋
 
-🚀 Senior Software Developer | Pimcore Expert | former Lead Developer at valantic | Certified Pimcore Enterprise Developer
+🚀 Senior Software Engineer | Pimcore Expert | Symfony Developer | Automation Enthusiast
 
-I’m a passionate Senior Software Developer with a strong focus on Pimcore, Symfony, Digital Experience Platforms and modern web technologies.
+I’m a software engineer passionate about building scalable digital platforms, solving complex problems, and turning ideas into working solutions.
 
-Currently working at b_smart, where I build innovative digital solutions and drive technology forward. Before joining b_smart, I worked as a Lead Developer at valantic, leading large-scale enterprise Pimcore projects and creating scalable digital experience and eCommerce platforms.
+My main focus is on Pimcore, Symfony, PHP, APIs, integrations and Digital Experience Platforms. Over the years I’ve worked on large enterprise solutions, including my time as Lead Developer at valantic, where I helped design and build complex Pimcore ecosystems.
 
-👨‍💻 With many years of experience in software engineering, I enjoy solving complex challenges, improving architectures, and combining proven technologies with new approaches like automation and AI.
+Today I’m working at b_smart, creating innovative solutions and exploring how modern technologies like AI, automation and smart integrations can improve everyday workflows.
 
-🏠 Outside of work, I’m a passionate home automation enthusiast, experimenting with smart home technologies, IoT, 3D printing and creative ways to connect software with the physical world.
+🛠 Tech I work with
 
-💬 Feel free to connect with me for:
+* 🐘 PHP / Symfony / Pimcore
+* 🔎 OpenSearch / Elasticsearch
+* 🐳 Docker / DevOps / CI/CD
+* 🗄️ MariaDB / PostgreSQL / Redis
+* 🔗 APIs & enterprise integrations
+* 🤖 AI-assisted development & automation
+* 🏠 Home Assistant / IoT / Smart Home
+* 🖨️ 3D Printing & maker projects
 
-* Pimcore & Symfony discussions
-* Digital Experience Platform topics
+🚀 Beyond code
+
+I love experimenting with technology beyond my daily work:
+
+* automating my home with Home Assistant
+* connecting hardware and software
+* building small tools that solve real problems
+* exploring AI and new developer workflows
+
+Always curious. Always building. 🔧
+
+💬 Let’s connect
+
+Feel free to reach out about:
+
+* Pimcore & Symfony
 * Software architecture
-* Home automation & tech projects
-* Collaboration ideas
+* Automation ideas
+* Smart Home projects
+* Tech experiments
 
 ⸻
 
-“Building better digital experiences — from enterprise platforms to everyday automation.”
+“Building software that connects ideas, systems and people.”
+
+
+
+
